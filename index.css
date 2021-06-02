@@ -1,0 +1,13 @@
+nav {
+  border-bottom: 1px black solid;
+  height: 60px;
+}
+
+footer {
+  border-top: 1px gray solid;
+  height: 40px;
+}
+
+div {
+  border-bottom: 1px, black solid;
+}
